@@ -1,6 +1,6 @@
 # Guide for using URG-04LX-UG01 in ROS2
 
-In this repository,a step-by-step guide for using URG-04LX-UG01 in ROS2 Humble is presented
+In this repository, a step-by-step guide for using URG-04LX-UG01 in ROS2 Humble is presented
 
 ![image](https://github.com/user-attachments/assets/47dd4c0c-76fb-4f94-9774-301d2dc7c735)
 
