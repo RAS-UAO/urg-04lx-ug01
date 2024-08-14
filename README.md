@@ -49,4 +49,4 @@ Now, you must see something like this:
 
 ![Final](https://github.com/user-attachments/assets/43c707a7-7acf-4562-97e6-052e4f4bfd69)
 
-Congratulations! You just run and visualized the URG-04LX-UG01's sensing.
+**Congratulations!** You just run and visualized the URG-04LX-UG01's sensing.
